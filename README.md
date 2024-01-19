@@ -1,5 +1,5 @@
 # Rotor-Cuda v1.07
-![ROTOR-CUDA phrutis](https://github.com/phrutis/Rotor-Cuda/assets/140947743/05f13b44-c80c-4fa2-9010-73f784fd796f)<br>
+
 This is a modified version of KeyHunt v1.7<br>
 
 ## Changes:
